@@ -1,4 +1,3 @@
-Claro. Como você vai entregar um **Gerenciador de Tabela de Símbolos**, o README pode ser focado no objetivo da atividade e no funcionamento da sua implementação.
 
 # Avaliação Prática PBL: Componentes de Compiladores
 
