@@ -1,7 +1,7 @@
 
 # Avaliação Prática PBL: Componentes de Compiladores
 
-## Gerenciador de Tabela de S´ımbolos usando Pilha de Tabelas Hash
+## Gerenciador de Tabela de Símbolos usando Pilha de Tabelas Hash
 
 ### Descrição
 
